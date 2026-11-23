@@ -168,7 +168,7 @@ h2 span {
     display: flex;
     align-items: center;
 
-    background-image: url("https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?w=2000");
+    background-image: url(images/image1.avif);
     background-position: center;
     background-size: cover;
 }
