@@ -36,13 +36,18 @@ LUMORA is designed for a luxury interior design studio, showcasing creative spac
 ## Project Structure
 
 ```text
-LUMORA/
+LUMORA-WEBSITE/
 │
 ├── index.html
 │
 ├── style.css
 │
-└── README.md
+└── images/
+    ├── image1.avif
+    ├── image2.jpg
+    ├── image3.jpg
+    ├── image4.jpg
+    └── image5.jpg
 ```
 
 ## Color Palette
